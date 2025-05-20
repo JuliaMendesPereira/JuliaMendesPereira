@@ -36,3 +36,33 @@
 
   
 ![images](https://github.com/user-attachments/assets/b74e0f92-6802-4f2d-a675-8186f4aad1aa)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Velozes e Furiosos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="Logo Velozes e Furiosos" class="logo"/>
+    <h1>Velozes e Furiosos</h1>
+    <p>Adrenalina, família e velocidade!</p>
+  </header>
+
+  <main>
+    <section class="sobre">
+      <h2>Sobre a Franquia</h2>
+      <p>Velozes e Furiosos é uma das franquias de ação mais populares do cinema, iniciada em 2001. Misturando corridas ilegais, assaltos e espionagem, os filmes giram em torno de Dominic Toretto e sua "família".</p>
+    </section>
+
+   
+
+  <footer>
+    <p>&copy; 2025 - Fã site sobre Velozes e Furiosos | Não oficial</p>
+  </footer>
+</body>
+</html>
+
