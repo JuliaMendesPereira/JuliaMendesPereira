@@ -55,9 +55,4 @@
    ![MRODFAST6BR](https://github.com/user-attachments/assets/427f24c0-418f-4bcc-8a68-6bc7dfc436da)
 
 
-  <footer>
-    <p>&copy; 2025 - Fã site sobre Velozes e Furiosos | Não oficial</p>
-  </footer>
-</body>
-</html>
-
+  
