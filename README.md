@@ -5,6 +5,10 @@
      
 
  <br>
+  <br>
+ <br>
+ <br>
+
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -17,14 +21,25 @@
 <body>
   <div class="container">
     <h1>🏀 Jogo de Basquete</h1>
-    
+
+
+![5f1d9f590880cd69ab2ef5d02d17caa0](https://github.com/user-attachments/assets/5978a756-c88b-4d5b-bdc5-6632c11569b2)
+
+
+<br>
+
+<br>
+<br>
+<br>
+
+![cd1a0d5240b2b607ca235f52d6a69064](https://github.com/user-attachments/assets/c989de36-6764-46d1-b626-350629329b76)
+
+<br>
+<br>
+
 ![Golden_State_Warriors](https://github.com/user-attachments/assets/44ea71d1-d164-457e-82bc-6b4038beea43)
 
-<br>
 
-![250px-Stephen_Curry_dribbling_2016](https://github.com/user-attachments/assets/883f7f6a-5862-4fff-ab36-dfab59728682)
-<br>
-![i](https://github.com/user-attachments/assets/e3c18010-93d4-4eb2-ad2a-529c3ce32316)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -37,7 +52,6 @@
  
 
   
-![images](https://github.com/user-attachments/assets/b74e0f92-6802-4f2d-a675-8186f4aad1aa)
 
 
 <body>
