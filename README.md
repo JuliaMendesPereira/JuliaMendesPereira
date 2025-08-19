@@ -2,8 +2,7 @@
 <br>
  <div align="center">
     <a href="https://www.instagram.com/dess__ju" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
-    <a 
-     [![download](https://github.com/user-attachments/assets/5696059b-431c-4d45-bc1a-66e92b8db131)]
+     
 
  <br>
 
@@ -20,6 +19,7 @@
     <h1>🏀 Jogo de Basquete</h1>
     
 ![Golden_State_Warriors](https://github.com/user-attachments/assets/44ea71d1-d164-457e-82bc-6b4038beea43)
+
 <br>
 
 ![250px-Stephen_Curry_dribbling_2016](https://github.com/user-attachments/assets/883f7f6a-5862-4fff-ab36-dfab59728682)
