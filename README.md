@@ -3,6 +3,8 @@
  <div align="center">
     <a href="https://www.instagram.com/dess__ju" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
     <a 
+     [![download](https://github.com/user-attachments/assets/5696059b-431c-4d45-bc1a-66e92b8db131)]
+
  <br>
 
 <!DOCTYPE html>
@@ -33,12 +35,6 @@
 </head>
 <body>
  
-
-  <main>
-    <section class="historia">
-      <h2>História</h2>
-      <p>Fundado em 1921, o Cruzeiro Esporte Clube é um dos clubes mais tradicionais e vitoriosos do futebol brasileiro. Seu nome original era Palestra Itália, mudando após a Segunda Guerra Mundial.</p>
-    </section>
 
   
 ![images](https://github.com/user-attachments/assets/b74e0f92-6802-4f2d-a675-8186f4aad1aa)
