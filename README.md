@@ -20,8 +20,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>🏀 Jogo de Basquete</h1>
-
+   
 
 ![5f1d9f590880cd69ab2ef5d02d17caa0](https://github.com/user-attachments/assets/5978a756-c88b-4d5b-bdc5-6632c11569b2)
 
